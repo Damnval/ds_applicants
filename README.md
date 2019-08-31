@@ -1,9 +1,14 @@
 Applicantion:
-	Laravel
+
+Laravel
+
 DataBase:
-	MySql
+
+MySql
+
 Server:
-	XAMMP
+
+XAMMP
 
 Deployment Process:
 
