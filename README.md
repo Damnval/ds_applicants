@@ -9,6 +9,8 @@ Deployment Process:
 
 1. Install packages: `composer install`
 
+2. Generate new app key: `php artisan key:generate`
+
 2. Create DataBase `dreamscape`
 - user: root
 - pw: 
